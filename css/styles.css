@@ -63,19 +63,17 @@ body {
     margin-top: 0;
     margin-bottom: 0;
 }
-.nav-item {
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.14;
-    letter-spacing: 0.02em;
-    text-decoration: none;
-    color: var(--secondary-dark-color);
-}
 .nav-links {
     font-weight: 500;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--main-dark-color);
+}
+.contacts-links {
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: var(--secondary-dark-color);
 }
 .visually-hidden {
     position: absolute;
@@ -169,7 +167,7 @@ body {
     line-height: 1.71;
     letter-spacing: 0.03em;
     text-decoration: none;
-    color: var(--secondary-dark-color);
+    color: rgba(255, 255, 255, 0.6);
 }
 .contact-address {
     color: var(--main-light-color);
