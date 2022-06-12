@@ -115,6 +115,7 @@ body {
     line-height: 1.71;
     letter-spacing: 0.03em;
     margin: 0;
+    color: var(--secondary-dark-color);
 }
 .section-activities-back {
     background-color: var(--main-light-color);
@@ -150,6 +151,7 @@ body {
     line-height: 1.19;
     letter-spacing: 0.03em;
     margin: 0;
+    color: var(--secondary-dark-color);
 }
 .bottom-contacts {
     background-color: var(--first-back-color);
